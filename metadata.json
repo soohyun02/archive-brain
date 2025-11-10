@@ -1,0 +1,5 @@
+{
+  "name": "Archive Brain",
+  "description": "An application for personal knowledge curation and AI-powered summarization. Save text from various sources, and use AI to quickly grasp the core concepts of selected portions.",
+  "requestFramePermissions": []
+}
